@@ -1,0 +1,24 @@
+Partlist
+
+Exported from amplificador_simples.brd at 27/07/2017 21:49:49
+
+EAGLE Version 5.10.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value
+
+C1       100nF
+C2       100nF
+C3       47uF 
+C4       47uF 
+INPUT    1X03         
+OUTPUT   1X03         
+POT      1X03         
+PSU      1X03         
+R1       100K
+R2       2K7 
+R3       15K 
+R4       470R
+R5       10K 
+R6       1K  
+SWITCH   1X03         
+T1       BF495 TO92-EBC     

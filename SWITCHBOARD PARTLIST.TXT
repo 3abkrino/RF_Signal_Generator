@@ -1,0 +1,22 @@
+Partlist
+
+Exported from ANJO_RF_Generator_SwitchBoard.sch at 27/07/2017 21:09:25
+
+EAGLE Version 5.10.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value         
+
+JP1      PINHD-1X3   1X03
+L1       2,2mH 
+L2       1,0mH 
+L3       220uH 
+L4       47uH  
+L5       10uH  
+L6       1,0uH 
+L7       2,2mH 
+L8       1,0mH 
+L9       220uH 
+L10      47uH  
+L11      1uH   
+L12      10uH  
+S1       CK102X06 switch

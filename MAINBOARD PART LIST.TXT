@@ -1,0 +1,56 @@
+Partlist
+
+Exported from ANJO_RF_Generator_v2.sch at 27/07/2017 21:07:57
+
+EAGLE Version 5.10.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value          
+C1       100nF          
+C2       100nF          
+C3       4,7nF          
+C4       2,2nF          
+C5       22nF           
+C6       4,7nF          
+C7       4,7nF          
+C8       1uF            
+C13      100pF          
+C14      100nF          
+C15      100pF          
+C16      100nF          
+C18      100nF/60V      
+C19      100nF          
+Q1       BC548A         
+Q2       BC548A         
+Q3       BC548A         
+Q4       BC548A         
+Q5       BF245          
+R1       22K            
+R2       180K           
+R3       4K7            
+R4       470R           
+R5       15K            
+R6       100R           
+R7       27K            
+R8       27K            
+R9       27K            
+R10      470R           
+R11      150R           
+R12      10K            
+R13      2K2            
+R14      22K            
+R15      470R           
+R16      1K2            
+R17      47K            
+R18      1K             
+R19      68R            
+R20      22K            
+R21      15K            
+S1       SWITCH-SPSTPTH
+S2       SWITCH-SPSTPTH
+X1       AK300/2
+X2       AK300/2
+X3       AK300/2
+X4       AK300/3
+X5       AK300/3
+X6       AK300/3
+X7       AK300/2

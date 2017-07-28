@@ -1,0 +1,16 @@
+Partlist
+
+Exported from ANJO_RF_Generator_PowerSuply.sch at 27/07/2017 21:08:41
+
+EAGLE Version 5.10.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value         
+
+B1       RB1A
+C9       4700u
+C10      100n 
+C11      100n 
+C12      220u 
+IC1      7815TV
+X4       AK300/3
+X5       AK300/2
